@@ -1,5 +1,7 @@
 # Demo for build with bazel
+This is the Demo source code for [my talk(Vietnamese)](https://www.youtube.com/watch?v=RCYrXpTcP8g) introducing Bazel Build, a powerful build toolchains using at Google
 
+### Get started:
 Install bazel for your machine
 
 ### Windows:
